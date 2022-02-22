@@ -1,4 +1,4 @@
-// recursive scan folder for files and folder and write a files.json file as output
+// recursive scan folder for files and folders and write a files.json file as output
 const fs = require('fs');
 const path = require('path');
 
